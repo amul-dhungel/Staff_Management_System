@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=JuniorDeveloper
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Juniordeveloper\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=platform\ interviewerName\ workingHours\ salary\ appointedBy\ terminationDate
+comment1.target=JuniorDeveloper(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=developerName\ appointedDate\ terminationDate\ specialization
+comment10.target=void\ appointDeveloper(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=float\ getSalary()
+comment3.params=
+comment3.target=java.lang.String\ getAppointedDate()
+comment4.params=
+comment4.target=java.lang.String\ getEvaluationPeriod()
+comment5.params=
+comment5.target=java.lang.String\ getTerminationDate()
+comment6.params=
+comment6.target=java.lang.String\ getSpecialization()
+comment7.params=
+comment7.target=java.lang.String\ getAppointedBy()
+comment8.params=
+comment8.target=boolean\ getJoined()
+comment9.params=salary
+comment9.target=void\ setSalary(int)
+numComments=12

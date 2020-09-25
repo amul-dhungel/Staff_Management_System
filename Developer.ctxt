@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Developer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Developer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=platform\ interviewerName\ workingHours
+comment1.target=Developer(java.lang.String,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=interviewerName
+comment2.target=void\ setInterviewerName(java.lang.String)
+comment3.params=platform
+comment3.target=void\ setPlatform(java.lang.String)
+comment4.params=workingHours
+comment4.target=void\ setWorkingHours(int)
+comment5.params=developerName
+comment5.target=void\ setDeveloperName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getInterviewerName()
+comment7.params=
+comment7.target=java.lang.String\ getPlatform()
+comment8.params=
+comment8.target=int\ getWorkingHours()
+comment9.params=
+comment9.target=java.lang.String\ getDeveloperName()
+numComments=11
